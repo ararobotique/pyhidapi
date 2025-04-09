@@ -8,7 +8,7 @@ README = open(os.path.join(here, 'README.md')).read()
 version = '1.0.7'
 
 setup(
-    name='hid',
+    name='ara.pyhidapi',
     version=version,
     description='ctypes bindings for hidapi',
     long_description=README,
